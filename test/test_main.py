@@ -1,4 +1,4 @@
-from cicd_pipeline.src.main import add
+from src.main import add
 
 def testing():
     assert add(1,2)==4
